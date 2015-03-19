@@ -47,3 +47,5 @@ Temporary Items
 out/
 target/
 .idea
+build.gradle
+guava-book.iml
